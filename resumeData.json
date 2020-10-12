@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"陳俊廷",
+    "description":"A positive NTU student from Taipei.",
+    "image":"profilepic.jpg",
+    "bio":"Simply A Music Addict",
+    "email": "www.jim50405@gmail.com",
+    "address":{
+      "city":"Taipei"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/chen.j.ting.902/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jim.chen.1225/?hl=zh-tw",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jim-CTChen",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Yanping High School",
+        "degree":"High school",
+        "graduated":"2018",
+        "description":"Great school with great teacher. And most of all, perfect classmates."
+      },
+      {
+        "school":"National Taiwan University",
+        "degree":"Bachelor degree",
+        "graduated":"",
+        "description":"Electrical Engineering department"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"30%"
+      },
+      {
+        "name":"HTML5",
+        "level":"40%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Music produces a kind of pleasure which human nature cannot do without.",
+        "user":"Confucius"
+      }
+    ]
+  }
+}
